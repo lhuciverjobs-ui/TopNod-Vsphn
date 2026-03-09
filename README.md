@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="silent_logo.png" width="220" alt="Silent Private Community"/>
+<img src="photo_2026-03-10_01-33-02.jpg" width="220" alt="Silent Private Community"/>
 
 # TopNod Auto Wallet Bot
 
