@@ -8,7 +8,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-VSPhone-orange?style=flat-square)](https://vsphone.com)
-[![Status]([https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square](https://b.top4top.io/p_3720p5uqv1.jpg))]()
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
 
 </div>
 
